@@ -1,13 +1,16 @@
 body{
-    background-color: black;
+    background-color: rgb(12, 4, 4);
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 h1{
-    color:gold;
+    color:rgb(168, 19, 26);
     font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
 }
+
 p{
     font: size 25px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
